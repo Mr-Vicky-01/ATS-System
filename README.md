@@ -1,4 +1,3 @@
-# Applicant Tracking System (ATS)
 ![image](https://github.com/Mr-Vicky-01/YT-Video-Summarizer/assets/143078285/962938a2-c064-44bb-9388-690353a12d49)
 
 ## Overview
