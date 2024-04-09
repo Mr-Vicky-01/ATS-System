@@ -36,7 +36,7 @@ streamlit run app.py
 ## Screen Shots
 
 ![image](https://github.com/Mr-Vicky-01/YT-Video-Summarizer/assets/143078285/0d3f0520-f6ff-4465-b5a2-32cd89c8b9f7)
-![image](https://github.com/Mr-Vicky-01/YT-Video-Summarizer/assets/143078285/7a27e9d3-2020-4729-be10-8e1dedea9599)
+![image](https://github.com/Mr-Vicky-01/YT-Video-Summarizer/assets/143078285/07f391e3-6d5d-4f9a-8719-22f962ad5b06)
 
 ## Link
 
